@@ -1,0 +1,7 @@
+#+title: Readme
+
+
+* Emacs Version
+
+"GNU Emacs 28.2 (build 2, aarch64-apple-darwin21.3.0, NS appkit-2113.30 Version 12.2.1 (Build 21D62))
+ of 2022-09-17"
