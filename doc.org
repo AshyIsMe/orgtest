@@ -1,8 +1,15 @@
 #+bibliography: bibliography.bib
 
 * Testing citations
-** thesis
+** phdthesis
 phdthesis citations don't seem to work. [cite:@smith_2022]
 
+** thesis
+Thesis citations seem to work. [cite:@smith_2022_thesis]
+
+** misc
+Misc citations seem to work. [cite:@smith_2022_misc]
+
 ** articles
-But articles do seem to work [cite:@jones_2022]
+Articles do seem to work [cite:@jones_2022]
+

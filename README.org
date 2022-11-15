@@ -1,6 +1,19 @@
 #+title: Readme
 
 
+* Issues
+
+`@article`, `@thesis`, `@misc` citations all seem to work.
+But `@phdthesis` citations do not work.
+
+Messages shows this if i hit enter on the citation in doc.org:
+
+#+begin_quote
+org-cite-basic-goto: Cannot find citation key: "smith_2022"
+#+end_quote
+
+And that citation does not get rendered out to pdf.
+
 * Emacs Version
 
 "GNU Emacs 28.2 (build 2, aarch64-apple-darwin21.3.0, NS appkit-2113.30 Version 12.2.1 (Build 21D62))
